@@ -1,4 +1,4 @@
-# Computer-Vision-Models
+# Computer Vision Models
 
 Model used = YOLO8vm 
 
